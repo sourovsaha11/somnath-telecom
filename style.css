@@ -1,0 +1,18 @@
+.montserrat {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.card>img {
+    height: 300px;
+}
+
+body {
+    background-color: rgb(225, 234, 227);
+}
+.card{
+    background-color: rgb(210, 230, 213);
+}
+
